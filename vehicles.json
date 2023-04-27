@@ -1,0 +1,49 @@
+{
+ "vehicles": [
+   {    
+		"id": 1,
+        "tipo": "moto",
+        "placa": "fff123",
+        "horaIngreso": "2023-04-25T20:03:55",
+        "horaSalida": "-",
+        "tiempoTotal": "-",
+		"valor": "-",
+        "compra": "-",
+        "numeroFactura": 0
+    },
+    {   
+		"id": 2,
+        "tipo": "carro",
+        "placa": "fff123",
+        "horaIngreso": "2023-04-25T20:03:55",
+        "horaSalida": "-",
+        "tiempoTotal": "-",
+		"valor": "-",
+        "compra": "-",
+        "numeroFactura": 0
+    },
+    {	
+		"id": 3,
+        "tipo": "carro",
+        "placa": "fff123",
+        "horaIngreso": "2023-04-25T20:03:55",
+        "horaSalida": "-",
+        "tiempoTotal": "-",
+		"valor": "-",
+        "compra": "-",
+        "numeroFactura": 0
+    },
+	{	
+		"id": 4,
+        "tipo": "bicicleta",
+        "placa": "fff123",
+        "horaIngreso": "2023-04-25T20:03:55",
+        "horaSalida": "-",
+        "tiempoTotal": "-",
+		"valor": "-",
+        "compra": "-",
+        "numeroFactura": 0
+    }
+ ]
+}
+
